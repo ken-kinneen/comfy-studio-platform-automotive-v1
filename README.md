@@ -1,2 +1,3 @@
-# comfy-studio-platform-automotive-v1
-ComfyUI Worker for Studio Platform AUTOMOTIVE v1
+# ComfyUI Worker: Studio Platform AUTOMOTIVE v1
+
+Auto-generated worker with 7 custom nodes and 8 models.
